@@ -1,0 +1,6 @@
+dist
+node_modules
+src/keys
+posts
+public/index.html
+public/posts/*
